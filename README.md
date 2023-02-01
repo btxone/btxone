@@ -1,16 +1,29 @@
-### Hi there 👋
+Hola! Soy Gianfranco, apasionado por el desarrollo de sitios web y creación de proyectos, actualmente soy Desarrollador Full Stack.
 
-<!--
-**btxone/btxone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias que utilizo:
+JavaScript
+TypeScript
+React
+Redux
+HTML
+CSS
+Bootstrap
+Tailwind
+Node
+Express
+PostgreSQL
+Sequelize
+MongoDB
+TRUFFLE
+MORALIS
+VUE
+WebSocket
+SOLIDITY 
+Mis Proyectos:
+Shine PF :
+Link al repositorio
 
-Here are some ideas to get you started:
+https://e-commerce-clothing-three.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto por correo
+Corrreo: btxpablo@gmail.com
