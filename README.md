@@ -1,4 +1,4 @@
-Hola! Soy Gianfranco, apasionado por el desarrollo de sitios web y creación de proyectos, actualmente soy Desarrollador Full Stack.
+Hola! Soy Pau Gonzalez, apasionado por el desarrollo de sitios web y creación de proyectos, actualmente soy Desarrollador Full Stack.
 
 Tecnologias que utilizo:
 JavaScript
